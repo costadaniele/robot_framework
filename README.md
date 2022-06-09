@@ -3,7 +3,7 @@
 ### 1. Instalar python 
 
    https://www.python.org/downloads/
-
+   
 ### 2. Direcionar pasta do Python para a variável do sistema.
 
    - Editar as variáveis de ambiente do sistema.
